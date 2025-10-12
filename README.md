@@ -67,7 +67,8 @@ Currently focused on creating clean, efficient, and reliable software while cont
 ## 📫 Let's Connect
 - 📧 Email: **anchaljain1106@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anchaljain1106/)  
-- 🌐 [Portfolio](https://portfolio-codexjaintech.vercel.app) 
+- 🌐 [Portfolio](https://portfolio-codexjaintech.vercel.app)
+- 🌐 [Coding Profiles](https://codolio.com/profile/AnchalJain)
 
 ---
 
